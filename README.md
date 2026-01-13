@@ -14,16 +14,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuperMo0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperMo0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 🏆 Competitive Programming
 
 <div align="center">
@@ -32,7 +22,8 @@
   </a>
 </div>
 
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SuperMo0&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
-<br/>
