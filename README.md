@@ -2,7 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 <br/>
-## Hi folks I'm a problem solver and Web developer 
+
+### Hi folks I'm a problem solver and Web developer 
 
 ### 🛠️ Languages and Tools
 
@@ -27,9 +28,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuperMo0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperMo0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
