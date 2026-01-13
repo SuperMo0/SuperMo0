@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SuperMo0&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-<br/>
-
 ### Hi folks I'm a problem solver and Web developer 
 
 ### 🛠️ Languages and Tools
@@ -36,3 +31,8 @@
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SuperMo0&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+<br/>
