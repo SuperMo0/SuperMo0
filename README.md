@@ -15,11 +15,11 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white" alt="Cloudinary" />
+ <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white" alt="Cloudinary" />
+<img src="https://img.shields.io/badge/Cheerio-%23E88C1F.svg?style=for-the-badge&logo=cheerio&logoColor=white" alt="Cheerio" />
+<img src="https://img.shields.io/badge/Web_Scraping-%23444444.svg?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Web Scraping" />
 </div>
-  ![Cheerio](https://img.shields.io/badge/cheerio-%23E88C1F.svg?style=for-the-badge&logo=cheerio&logoColor=white)
-  ![Web Scraping](https://img.shields.io/badge/web--scraping-%23444444.svg?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 ---
 
