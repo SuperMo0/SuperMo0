@@ -1,4 +1,4 @@
-### Hi folks I'm a competitive programmer and Full Stack Web developer 
+### Hi folks I'm Full Stack Web developer and a competitive programmer
 
 ### 🛠️ My current Tools
 
