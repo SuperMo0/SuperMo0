@@ -17,10 +17,9 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white" alt="Cloudinary" />
+</div>
   ![Cheerio](https://img.shields.io/badge/cheerio-%23E88C1F.svg?style=for-the-badge&logo=cheerio&logoColor=white)
   ![Web Scraping](https://img.shields.io/badge/web--scraping-%23444444.svg?style=for-the-badge&logo=googlesheets&logoColor=white)
-  
-</div>
 
 ---
 
