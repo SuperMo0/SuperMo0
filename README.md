@@ -1,4 +1,6 @@
-### Hi folks I'm Full Stack Web developer and a competitive programmer
+### Hi folks I'm Full Stack Web developer and a competitive programmer 
+I recently finished The Odin Project curriculum, where I created more than 20 different full-stack projects.
+I love problem-solving! I reached Specialist on Codeforces and participated in the ECPC programming contest (solving 6/13 problems). I am currently pursuing the Expert rank.
 
 ### 🛠️ My current Tools
 
