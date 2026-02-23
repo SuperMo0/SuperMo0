@@ -1,6 +1,4 @@
-### Hi folks I'm Full Stack Web developer and a competitive programmer 
-I Completed The Odin Project curriculum, where I created more than 25 different projects.
-I love problem-solving, I reached Specialist on Codeforces and I am currently Improving my full-stack knowledge 
+I'm a full-stack web developer who is pursuing, clean code, performance, and accessibility.
 
 <div align="center">
   <a href="https://codeforces.com/profile/SuperMo">
