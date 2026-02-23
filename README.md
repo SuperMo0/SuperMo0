@@ -1,4 +1,4 @@
-I'm a full-stack web developer who is pursuing, clean code, performance, and accessibility.
+I'm a full-stack web developer who is pursuing clean code, performance, and accessibility.
 
 <div align="center">
   <a href="https://codeforces.com/profile/SuperMo">
