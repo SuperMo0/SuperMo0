@@ -1,4 +1,4 @@
-I'm a full-stack web developer who is pursuing clean code, performance, and accessibility.
+Hi folks, I'm a junior full-stack web developer, I recently finished the odin project, and I'm working on my first open source contribution.
 
 <div align="center">
   <a href="https://codeforces.com/profile/SuperMo">
