@@ -26,5 +26,10 @@ Welcome All, I'm a Fullstack web developer (MERN), TypeScript wizard, and a comp
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;TypeScript+Wizard;Performance+%26+a11y+Advocate;Specialist+on+Codeforces" alt="Typing Animation" />
 </div>
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SuperMo)](https://codeforces.com/profile/SuperMo)
+<br />
 
+<div align="center">
+  <a href="https://codeforces.com/profile/SuperMo">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=SuperMo" alt="Codeforces Stats" />
+  </a>
+</div>
