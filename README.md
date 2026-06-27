@@ -18,7 +18,7 @@ Welcome All, I'm a Fullstack web developer (MERN), TypeScript wizard, and a comp
 <div align="center">
   <h3>Core Arsenal</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,mongodb,postgres,prisma,redis,linux,ubuntu,bash&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,mongodb,postgres,prisma,redis,linux,ubuntu,bash&theme=dark" alt="Tech Stack" />
   </a>
 </div>
 
