@@ -1,5 +1,5 @@
 <div align="center">
-Welcome All, I'm a Fullstack web developer (MERN), TypeScript wizard, and a competitive programmer.
+Welcome All, I'm a Fullstack Engineer, TypeScript wizard, and a competitive programmer.
 </div>
 <br/>
 
